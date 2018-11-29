@@ -1,0 +1,6 @@
+﻿  pacman.cpp
+c:\users\wolfgang kandek\source\repos\pacman\pacman\pacman.cpp(137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\wolfgang kandek\source\repos\pacman\pacman\pacman.cpp(387): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\wolfgang kandek\source\repos\pacman\pacman\pacman.cpp(388): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\wolfgang kandek\source\repos\pacman\pacman\pacman.cpp(389): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  pacman.vcxproj -> C:\Users\Wolfgang Kandek\source\repos\pacman\x64\Debug\pacman.exe
